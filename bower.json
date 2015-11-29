@@ -1,0 +1,23 @@
+{
+  "name": "test-react",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Alessandro"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/alexsyo/test-react",
+  "moduleType": [
+    "es6"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.3"
+  }
+}

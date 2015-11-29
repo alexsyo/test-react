@@ -1,0 +1,26 @@
+{
+  "name": "test-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexsyo/test-react.git"
+  },
+  "author": "Alessandro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexsyo/test-react/issues"
+  },
+  "homepage": "https://github.com/alexsyo/test-react#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-concat": "^2.6.0",
+    "gulp-connect": "^2.2.0",
+    "gulp-htmlmin": "^1.2.0",
+    "gulp-react": "^3.1.0"
+  }
+}
