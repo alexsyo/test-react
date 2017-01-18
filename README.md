@@ -1,6 +1,6 @@
-# test-react-browserify
+# test-react-flux-browserify
 
-simple app to test browserify
+simple react app to test browserify and the flux data structure
 
 ## Prepare
 
